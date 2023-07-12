@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for online shop'
+define service ZSD_SHOP_sj88 {
+  expose ZC_ONLINE_SHOP_SJ88 as online_shop;
+}
